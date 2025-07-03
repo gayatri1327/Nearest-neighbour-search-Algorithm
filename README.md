@@ -1,2 +1,2 @@
 # ANN-
-This is my course project based on ANN search
+This project tackled efficient similarity search in large, high-dimensional datasets. It started with creating a custom C++ vector library to model mathematical vectors, then implemented and tested an approximate k-NN algorithm on the FMNIST dataset. To boost performance, KDTree and RPTree structures were developed for faster spatial searches, alongside tree-based indexing that enhanced search speed and accuracy. Overall, it combined algorithm design, data structures, and practical testing to solve real-world nearest neighbor challenges.
